@@ -6,3 +6,5 @@ Created on Thu Apr 07 19:47:29 2016
 """
 
 import numpy as np
+
+print np.zeros(4)
