@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 07 19:47:29 2016
+#!/usr/bin/env python
 
-@author: iparpe
+"""
+Statistics library for robust methods.
+
 """
 
 import numpy as np
 
-print np.zeros(4)
